@@ -1,5 +1,5 @@
 # Upscaling-based-on-TgCNN
-Project: Efficient upscaling of geologic model based on  theory-guided encoder-decoder<br>
+Project: Efficient upscaling of geologic model based on  theory-guided convolutional encoder-decoder<br>
 * This is a course project for [Deep Generative Models](https://deep-generative-models.github.io/index2020.html).<br>
 * This project trys to use the deep learning models to deal with the engineering problems in geological modeling.<br>
 * This project trys to incorporate the physical laws into the training process of encoder-decoder and achieve unsupervised training.<br>
